@@ -16,3 +16,8 @@ As Albert Einstein said:
 
 ### Read More on Staying Positive
 [Psychology Today](https://www.psychologytoday.com/us/blog/click-here-happiness/201904/15-ways-build-growth-mindset)
+
+### About the Author 
+Griffin lives in the greater seattle area, and enjoys music, drawing, and the outdoors. 
+View Griffins Github Profile here:
+https://github.com/h-griffin
