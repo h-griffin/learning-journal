@@ -20,4 +20,4 @@ As Albert Einstein said:
 ### About the Author 
 Griffin lives in the greater seattle area, and enjoys music, drawing, and the outdoors. 
 View Griffins Github Profile here:
-https://github.com/h-griffin
+[Griffins Github Profile](https://github.com/h-griffin)
