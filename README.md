@@ -2,9 +2,9 @@
 place to learn or take notes
 
 ## **Growth Mindset**
-Growth mindset is having an attitude willing to learn and develop new skills. Growth mindset is the ability to recodnize the learning process, and *be persistent through challenges*. 
+Growth mindset is having an **attitude willing to learn** and develop new skills. Growth mindset is the ability to recodnize the learning process, and *be persistent through challenges*. 
 
-### 3 Ways to stay in a growth mindset
+### 3 Ways to Stay in a Growth Mindset
 1. Remember learning takes time.
 2. aknowledge mistakes
 3. Consider criticism
