@@ -1,5 +1,3 @@
-# learning-journal
-A place to learn, or take notes.
 
 ## **Growth Mindset**
 Growth mindset is having an **attitude willing to learn,** and develop new skills. Growth mindset is the ability to recodnize the learning process, and *be persistent through challenges*. 
@@ -16,8 +14,3 @@ As Albert Einstein said:
 
 ### Read More on Staying Positive
 [Psychology Today](https://www.psychologytoday.com/us/blog/click-here-happiness/201904/15-ways-build-growth-mindset)
-
-### About the Author 
-Griffin lives in the greater seattle area, and enjoys music, drawing, and the outdoors. 
-View Griffins Github Profile here:
-[Griffins Github Profile](https://github.com/h-griffin)
